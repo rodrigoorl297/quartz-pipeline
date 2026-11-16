@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "segment": "commerce",
+    "value": 47,
+    "status": "reserved"
+  },
+  {
+    "id": 2,
+    "segment": "commerce",
+    "value": 54,
+    "status": "out"
+  },
+  {
+    "id": 3,
+    "segment": "commerce",
+    "value": 61,
+    "status": "in_stock"
+  },
+  {
+    "id": 4,
+    "segment": "commerce",
+    "value": 68,
+    "status": "reserved"
+  },
+  {
+    "id": 5,
+    "segment": "commerce",
+    "value": 75,
+    "status": "out"
+  },
+  {
+    "id": 6,
+    "segment": "commerce",
+    "value": 82,
+    "status": "in_stock"
+  },
+  {
+    "id": 7,
+    "segment": "commerce",
+    "value": 89,
+    "status": "reserved"
+  },
+  {
+    "id": 8,
+    "segment": "commerce",
+    "value": 96,
+    "status": "out"
+  },
+  {
+    "id": 9,
+    "segment": "commerce",
+    "value": 103,
+    "status": "in_stock"
+  },
+  {
+    "id": 10,
+    "segment": "commerce",
+    "value": 110,
+    "status": "reserved"
+  },
+  {
+    "id": 11,
+    "segment": "commerce",
+    "value": 117,
+    "status": "out"
+  },
+  {
+    "id": 12,
+    "segment": "commerce",
+    "value": 124,
+    "status": "in_stock"
+  }
+]
